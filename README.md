@@ -13,7 +13,7 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 - `💉` **`NiceRAT`**<br>
 \\___[ lightweight remote acess toolkit<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `py`, `bat`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `asm`, `c`
 
 ## `👨‍💻` Development
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
