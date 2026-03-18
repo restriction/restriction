@@ -11,9 +11,6 @@
    ░        ░  ░      ░              ░      ░  ░ ░                ░      ░ ░           ░ 
                                                ░                                         
 ```
-## 🍭 Join me for a Quick Introduction!
-Malware is not only about viruses — companies preinstall it all the time.
 
-<img src="https://github.com/0x00G/0x00G/assets/114768995/57f8f052-65ef-42db-972e-ce773ef93f51" width="400" />
 
 
